@@ -1,0 +1,54 @@
+﻿
+classification.info=Ты %s.
+classification.none.name=никто
+classification.warrior.name=Воин
+classification.archer.name=Лучник
+classification.wizard.name=Волшебник
+commands.classification_gui.usage=/classification_gui
+commands.classification_set.usage=/classification_set <player> <tag> или /classification_set <player> <id> 
+item.Gold_coin.name=Золотая монета
+item.Bronze_coin.name=Бронзовая монета	
+item.Silver_coin.name=Серебренная монета
+item.amulet_standart.name=Обычный амулет
+item.amulet_rare.name=Редкий амулет
+item.amulet_legendary.name=Легендарный амулет
+item.amulet_superLegendary.name=Уникальный амулет
+item.ringOfHealt_standart.name=Обычное кольцо жизни
+item.ringOfHealt_rare.name=Редкое кольцо жизни
+item.ringOfHealt_legendary.name=Легендарное кольцо жизни
+item.ringOfSpeed_standart.name=Обычное кольцо скорости
+item.ringOfSpeed_rare.name=Редкое кольцо скорости
+item.ringOfSpeed_legendary.name=Легендарное кольцо скорости
+item.ringOfStrength_standart.name=Обычное кольцо силы
+item.ringOfStrength_rare.name=Редкое кольцо силы
+item.ringOfStrength_legendary.name=Легендарное кольцо силы
+item.backpack_backpack.name=Рюкзак
+item.shoulder_cloth.name=Кожаные наплечники
+item.shoulder_chain.name=Кольчужные наплечники
+item.shoulder_iron.name=Железные наплечники
+item.shoulder_diamond.name=Алмазные наплечники
+item.glove_cloth.name=Кожаные перчатки
+item.glove_chain.name=Кольчужные перчатки
+item.glove_iron.name=Железные перчатки
+item.glove_diamond.name=Алмазные перчатки
+item.random_amulet.name=Амулет
+item.random_ringOfHealt.name=Кольцо жизни
+item.random_ringOfSpeed.name=Кольцо скорости
+item.random_ringOfStrength.name=Кольцо силы
+item.sword_bastard_st.name=Суданский меч
+item.sword_bastard_rr.name=Суданский меч
+item.sword_bastard_lg.name=Суданский меч
+itemGroup.RpgTab=Rpg вкладка 
+text.coord=Координаты:
+text.CharacteristicsPlayer=Характеристики персонажа
+text.healt=Здоровье:
+text.armor=Броня:
+text.damage=Доп. Урон:
+text.strength=Сила:скоро
+text.agility=Ловкость:скоро
+text.intelligence=Интелект:скоро
+text.Dop.exp=Доп. Опыт:
+
+
+
+
